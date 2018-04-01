@@ -1,4 +1,4 @@
-package com.example.bregasaria.bregas_1202150052_modul6;
+package com.example.aprilianti.april_1202150276_modul6;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.bregasaria.bregas_1202150052_modul6", appContext.getPackageName());
+        assertEquals("com.example.aprilianti.bregas_1202150052_modul6", appContext.getPackageName());
     }
 }

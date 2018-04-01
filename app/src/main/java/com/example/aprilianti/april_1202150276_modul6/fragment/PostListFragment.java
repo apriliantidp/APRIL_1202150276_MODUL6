@@ -1,4 +1,4 @@
-package com.example.bregasaria.bregas_1202150052_modul6.fragment;
+package com.example.aprilianti.april_1202150276_modul6.fragment;
 
 /**
  * Created by USER on 4/1/2018.
@@ -13,10 +13,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.bregasaria.bregas_1202150052_modul6.PostDetailActivity;
-import com.example.bregasaria.bregas_1202150052_modul6.R;
-import com.example.bregasaria.bregas_1202150052_modul6.model.Post;
-import com.example.bregasaria.bregas_1202150052_modul6.viewholder.PostViewHolder;
+import com.example.aprilianti.april_1202150276_modul6.PostDetailActivity;
+import com.example.aprilianti.april_1202150276_modul6.R;
+import com.example.aprilianti.april_1202150276_modul6.model.Post;
+import com.example.aprilianti.april_1202150276_modul6.viewholder.PostViewHolder;
 import com.firebase.ui.database.FirebaseRecyclerAdapter;
 import com.firebase.ui.database.FirebaseRecyclerOptions;
 import com.google.firebase.auth.FirebaseAuth;

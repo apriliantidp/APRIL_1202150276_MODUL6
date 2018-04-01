@@ -1,35 +1,27 @@
 {
   "project_info": {
-    "project_number": "94670051449",
-    "firebase_url": "https://modul6-9d9c3.firebaseio.com",
-    "project_id": "modul6-9d9c3",
-    "storage_bucket": "modul6-9d9c3.appspot.com"
+    "project_number": "693619147663",
+    "firebase_url": "https://studycase6-fd4b0.firebaseio.com",
+    "project_id": "studycase6-fd4b0",
+    "storage_bucket": "studycase6-fd4b0.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:94670051449:android:31996c1d43df4849",
+        "mobilesdk_app_id": "1:693619147663:android:3a5d4fa4ee88bae2",
         "android_client_info": {
-          "package_name": "com.example.bregasaria.bregas_1202150052_modul6"
+          "package_name": "com.example.aprilianti.april_1202150276_modul6"
         }
       },
       "oauth_client": [
         {
-          "client_id": "94670051449-0lp9bsm53e87ev68s2kbsddjgls8f5v9.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.bregasaria.bregas_1202150052_modul6",
-            "certificate_hash": "ed27644138631bfcaa7d8da6c65e9bad2cc580c8"
-          }
-        },
-        {
-          "client_id": "94670051449-p720bifm8fnm74tjqq69dvdfh6hojj0i.apps.googleusercontent.com",
+          "client_id": "693619147663-3o203pv52nvuu8j332kg4cc0bquo6f8b.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDFSTBr-ATqDwYXBUgRrHNt_KHwepZzU0w"
+          "current_key": "AIzaSyARFCJ4rk41OVHNHrBfHYxbimKIj0plY0s"
         }
       ],
       "services": {
@@ -37,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "94670051449-p720bifm8fnm74tjqq69dvdfh6hojj0i.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2

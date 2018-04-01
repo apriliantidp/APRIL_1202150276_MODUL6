@@ -1,4 +1,4 @@
-package com.example.bregasaria.bregas_1202150052_modul6.viewholder;
+package com.example.aprilianti.april_1202150276_modul6.viewholder;
 
 /**
  * Created by USER on 4/1/2018.
@@ -9,8 +9,8 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.bregasaria.bregas_1202150052_modul6.R;
-import com.example.bregasaria.bregas_1202150052_modul6.model.Post;
+import com.example.aprilianti.april_1202150276_modul6.R;
+import com.example.aprilianti.april_1202150276_modul6.model.Post;
 
 public class PostViewHolder extends RecyclerView.ViewHolder {
     public TextView titleView;

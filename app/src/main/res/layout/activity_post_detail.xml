@@ -9,7 +9,7 @@
     android:paddingLeft="16dp"
     android:paddingTop="16dp"
     android:paddingRight="16dp"
-    tools:context="com.example.bregasaria.bregas_1202150052_modul6.PostDetailActivity">
+    tools:context="com.example.aprilianti.april_1202150276_modul6.PostDetailActivity">
 
     <include
 

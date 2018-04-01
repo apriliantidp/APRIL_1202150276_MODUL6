@@ -6,7 +6,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.bregasaria.bregas_1202150052_modul6.HomeActivity">
+    tools:context="com.example.aprilianti.april_1202150276_modul6.HomeActivity">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"

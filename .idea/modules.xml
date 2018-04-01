@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BREGAS_1202150052_MODUL6.iml" filepath="$PROJECT_DIR$/BREGAS_1202150052_MODUL6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/APRIL_1202150276_MODUL6.iml" filepath="$PROJECT_DIR$/APRIL_1202150276_MODUL6.iml" />
+      <module fileurl="file://C:\Users\Aprilianti\Downloads\MODUL 6\BREGAS_1202150052_MODUL6\BREGAS_1202150052_MODUL6.iml" filepath="C:\Users\Aprilianti\Downloads\MODUL 6\BREGAS_1202150052_MODUL6\BREGAS_1202150052_MODUL6.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Aprilianti\Downloads\MODUL 6\BREGAS_1202150052_MODUL6\app\app.iml" filepath="C:\Users\Aprilianti\Downloads\MODUL 6\BREGAS_1202150052_MODUL6\app\app.iml" />
     </modules>
   </component>
 </project>

@@ -1,8 +1,6 @@
-package com.example.bregasaria.bregas_1202150052_modul6;
+package com.example.aprilianti.april_1202150276_modul6;
 
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
@@ -13,12 +11,11 @@ import android.content.Intent;
 import android.support.design.widget.TabLayout;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
 
 
-import com.example.bregasaria.bregas_1202150052_modul6.fragment.MyPostsFragment;
-import com.example.bregasaria.bregas_1202150052_modul6.fragment.MyTopPostsFragment;
-import com.example.bregasaria.bregas_1202150052_modul6.fragment.RecentPostsFragment;
+import com.example.aprilianti.april_1202150276_modul6.fragment.MyPostsFragment;
+import com.example.aprilianti.april_1202150276_modul6.fragment.MyTopPostsFragment;
+import com.example.aprilianti.april_1202150276_modul6.fragment.RecentPostsFragment;
 import com.google.firebase.auth.FirebaseAuth;
 
 public class HomeActivity extends AppCompatActivity {
